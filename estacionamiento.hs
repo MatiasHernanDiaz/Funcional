@@ -4,7 +4,7 @@
 --definimos max asi
 
 maximo :: Int -> Int
-maximo numero = max 2 numero
+maximo = max 2
 
 precioXHora :: Int -> Int
 precioXHora = (50 * )
