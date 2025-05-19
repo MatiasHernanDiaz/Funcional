@@ -18,3 +18,4 @@ main = do
     putStrLn(show (total 2)) -- 100
     putStrLn(show (total 3)) -- 150
     putStrLn(show (total 4))
+
