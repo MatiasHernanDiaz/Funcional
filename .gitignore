@@ -1,0 +1,11 @@
+Clases/
+.'Paradigmas de Programación.docx'
+*.o       # Archivos objeto
+*.exe     # Ejecutables (Windows)
+*.out     # Ejecutables (Linux/macOS)
+*.class   # Archivos de clase compilados
+*.jar     # Archivos JAR empaquetados
+# Directorios de construcción comunes
+build/
+out/
+target/
